@@ -1,0 +1,14 @@
+80 Lafayette Street, New York, NY 10013
+263 Mulberry Street, New York, NY 10012
+Washington Square Park, New York, NY 10012
+110 E 14th Street, New York, NY 10003
+175 5th Avenue, New York, NY 10010
+Empire State Building, New York, NY
+Rockefeller Center, New York, NY
+200 Central Park West, New York, NY 10024
+
+Fort Greene Park, Brooklyn, New York, NY
+Barclays Center, Brooklyn, New York, NY
+Prospect Park Zoo, Brooklyn, New York, NY
+5800 20th Ave, Brooklyn, NY 11204
+Calvert Vaux Park, Brooklyn, New York, NY

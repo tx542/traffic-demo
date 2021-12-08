@@ -1,0 +1,1069 @@
+[
+  {
+    "URL": "https://pypi.org/project/anyio/",
+    "abstract": "High level compatibility layer for multiple asynchronous event loop implementations",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Alex Gr\u00f6nholm"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 5 - Production/Stable",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3.6",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: 3.10"
+    ],
+    "id": "anyio",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          22
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          12
+        ]
+      ]
+    },
+    "publisher": "The Python Package Index",
+    "title": "anyio",
+    "type": "webpage",
+    "version": "3.4.0"
+  },
+  {
+    "URL": "https://www.attrs.org/",
+    "abstract": "Classes Without Boilerplate",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Hynek Schlawack"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 5 - Production/Stable",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Natural Language :: English",
+      "Operating System :: OS Independent",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 2",
+      "Programming Language :: Python :: 2.7",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3.5",
+      "Programming Language :: Python :: 3.6",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: Implementation :: CPython",
+      "Programming Language :: Python :: Implementation :: PyPy",
+      "Topic :: Software Development :: Libraries :: Python Modules"
+    ],
+    "id": "attrs",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          7
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          21
+        ]
+      ]
+    },
+    "publisher": "attrs.org",
+    "title": "attrs",
+    "type": "webpage",
+    "version": "21.2.0"
+  },
+  {
+    "URL": "http://www.crummy.com/software/BeautifulSoup/bs4/",
+    "abstract": "Screen-scraping library",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Leonard Richardson"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 5 - Production/Stable",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Topic :: Software Development :: Libraries :: Python Modules",
+      "Topic :: Text Processing :: Markup :: HTML",
+      "Topic :: Text Processing :: Markup :: SGML",
+      "Topic :: Text Processing :: Markup :: XML"
+    ],
+    "id": "beautifulsoup4",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          8
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          2
+        ]
+      ]
+    },
+    "publisher": "crummy.com",
+    "title": "beautifulsoup4",
+    "type": "webpage",
+    "version": "4.10.0"
+  },
+  {
+    "URL": "https://certifiio.readthedocs.io/en/latest/",
+    "abstract": "Python package for providing Mozilla's CA Bundle.",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Kenneth Reitz"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 5 - Production/Stable",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)",
+      "Natural Language :: English",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3.3",
+      "Programming Language :: Python :: 3.4",
+      "Programming Language :: Python :: 3.5",
+      "Programming Language :: Python :: 3.6",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9"
+    ],
+    "id": "certifi",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          8
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2011,
+          12,
+          28
+        ]
+      ]
+    },
+    "publisher": "ReadTheDocs",
+    "title": "certifi",
+    "type": "webpage",
+    "version": "2021.10.8"
+  },
+  {
+    "URL": "https://github.com/ousret/charset_normalizer",
+    "abstract": "The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet.",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Ahmed TAHRI @Ousret"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Operating System :: OS Independent",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3.5",
+      "Programming Language :: Python :: 3.6",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: Implementation :: PyPy",
+      "Topic :: Software Development :: Libraries :: Python Modules",
+      "Topic :: Text Processing :: Linguistic",
+      "Topic :: Utilities",
+      "Typing :: Typed"
+    ],
+    "id": "charset-normalizer",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          3
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          2
+        ]
+      ]
+    },
+    "publisher": "GitHub",
+    "title": "charset-normalizer",
+    "type": "webpage",
+    "version": "2.0.9"
+  },
+  {
+    "URL": "https://www.github.com/clbarnes/citepy",
+    "abstract": "Automatically create citations for packages",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Chris L. Barnes"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi"
+    ],
+    "id": "citepy",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          11
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          25
+        ]
+      ]
+    },
+    "publisher": "GitHub",
+    "title": "citepy",
+    "type": "webpage",
+    "version": "0.5.0"
+  },
+  {
+    "URL": "https://github.com/python-hyper/h11",
+    "abstract": "A pure-Python, bring-your-own-I/O implementation of HTTP/1.1",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Nathaniel J. Smith"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 3 - Alpha",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3 :: Only",
+      "Programming Language :: Python :: 3.6",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: Implementation :: CPython",
+      "Programming Language :: Python :: Implementation :: PyPy",
+      "Topic :: Internet :: WWW/HTTP",
+      "Topic :: System :: Networking"
+    ],
+    "id": "h11",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          1
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          14
+        ]
+      ]
+    },
+    "publisher": "GitHub",
+    "title": "h11",
+    "type": "webpage",
+    "version": "0.12.0"
+  },
+  {
+    "URL": "https://github.com/encode/httpcore",
+    "abstract": "A minimal low-level HTTP client.",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Tom Christie"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 3 - Alpha",
+      "Environment :: Web Environment",
+      "Framework :: AsyncIO",
+      "Framework :: Trio",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: BSD License",
+      "Operating System :: OS Independent",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3 :: Only",
+      "Programming Language :: Python :: 3.6",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: 3.10",
+      "Topic :: Internet :: WWW/HTTP"
+    ],
+    "id": "httpcore",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          17
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          4
+        ]
+      ]
+    },
+    "publisher": "GitHub",
+    "title": "httpcore",
+    "type": "webpage",
+    "version": "0.14.3"
+  },
+  {
+    "URL": "https://github.com/encode/httpx",
+    "abstract": "The next generation HTTP client.",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Tom Christie"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 4 - Beta",
+      "Environment :: Web Environment",
+      "Framework :: AsyncIO",
+      "Framework :: Trio",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: BSD License",
+      "Operating System :: OS Independent",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3 :: Only",
+      "Programming Language :: Python :: 3.6",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: 3.10",
+      "Topic :: Internet :: WWW/HTTP"
+    ],
+    "id": "httpx",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          16
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          19
+        ]
+      ]
+    },
+    "publisher": "GitHub",
+    "title": "httpx",
+    "type": "webpage",
+    "version": "0.21.1"
+  },
+  {
+    "URL": "https://github.com/kjd/idna",
+    "abstract": "Internationalized Domain Names in Applications (IDNA)",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Kim Davies"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 5 - Production/Stable",
+      "Intended Audience :: Developers",
+      "Intended Audience :: System Administrators",
+      "License :: OSI Approved :: BSD License",
+      "Operating System :: OS Independent",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3 :: Only",
+      "Programming Language :: Python :: 3.5",
+      "Programming Language :: Python :: 3.6",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: Implementation :: CPython",
+      "Programming Language :: Python :: Implementation :: PyPy",
+      "Topic :: Internet :: Name Service (DNS)",
+      "Topic :: Software Development :: Libraries :: Python Modules",
+      "Topic :: Utilities"
+    ],
+    "id": "idna",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          12
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2013,
+          7,
+          16
+        ]
+      ]
+    },
+    "publisher": "GitHub",
+    "title": "idna",
+    "type": "webpage",
+    "version": "3.3"
+  },
+  {
+    "URL": "https://github.com/Julian/jsonschema",
+    "abstract": "An implementation of JSON Schema validation for Python",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Julian Berman"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 5 - Production/Stable",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Operating System :: OS Independent",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: Implementation :: CPython",
+      "Programming Language :: Python :: Implementation :: PyPy"
+    ],
+    "id": "jsonschema",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          5
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2012,
+          1,
+          2
+        ]
+      ]
+    },
+    "publisher": "GitHub",
+    "title": "jsonschema",
+    "type": "webpage",
+    "version": "4.2.1"
+  },
+  {
+    "URL": "https://pip.pypa.io/",
+    "abstract": "The PyPA recommended tool for installing Python packages.",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "The pip developers"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 5 - Production/Stable",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3 :: Only",
+      "Programming Language :: Python :: 3.6",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: 3.10",
+      "Programming Language :: Python :: Implementation :: CPython",
+      "Programming Language :: Python :: Implementation :: PyPy",
+      "Topic :: Software Development :: Build Tools"
+    ],
+    "id": "pip",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          22
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2008,
+          10,
+          28
+        ]
+      ]
+    },
+    "publisher": "pip.pypa.io",
+    "title": "pip",
+    "type": "webpage",
+    "version": "21.3.1"
+  },
+  {
+    "URL": "http://github.com/tobgu/pyrsistent/",
+    "abstract": "Persistent/Functional/Immutable data structures",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Tobias Gustafsson"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Operating System :: OS Independent",
+      "Programming Language :: Python :: 3.6",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: Implementation :: PyPy"
+    ],
+    "id": "pyrsistent",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          28
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          10
+        ]
+      ]
+    },
+    "publisher": "GitHub",
+    "title": "pyrsistent",
+    "type": "webpage",
+    "version": "0.18.0"
+  },
+  {
+    "URL": "http://rfc3986.readthedocs.io",
+    "abstract": "Validating URI References per RFC 3986",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Ian Stapleton Cordasco"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 5 - Production/Stable",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: Apache Software License",
+      "Natural Language :: English",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 2.7",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3.4",
+      "Programming Language :: Python :: 3.5",
+      "Programming Language :: Python :: 3.6",
+      "Programming Language :: Python :: 3.7"
+    ],
+    "id": "rfc3986",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          7
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          27
+        ]
+      ]
+    },
+    "publisher": "ReadTheDocs",
+    "title": "rfc3986",
+    "type": "webpage",
+    "version": "1.5.0"
+  },
+  {
+    "URL": "https://github.com/pypa/setuptools",
+    "abstract": "Easily download, build, install, upgrade, and uninstall Python packages",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Python Packaging Authority"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 5 - Production/Stable",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3 :: Only",
+      "Topic :: Software Development :: Libraries :: Python Modules",
+      "Topic :: System :: Archiving :: Packaging",
+      "Topic :: System :: Systems Administration",
+      "Topic :: Utilities"
+    ],
+    "id": "setuptools",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          5
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2006,
+          5,
+          12
+        ]
+      ]
+    },
+    "publisher": "GitHub",
+    "title": "setuptools",
+    "type": "webpage",
+    "version": "59.5.0"
+  },
+  {
+    "URL": "https://github.com/python-trio/sniffio",
+    "abstract": "Sniff out which async library your code is running under",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Nathaniel J. Smith"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 5 - Production/Stable",
+      "Framework :: AsyncIO",
+      "Framework :: Trio",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: Apache Software License",
+      "License :: OSI Approved :: MIT License",
+      "Operating System :: MacOS :: MacOS X",
+      "Operating System :: Microsoft :: Windows",
+      "Operating System :: POSIX :: Linux",
+      "Programming Language :: Python :: 3 :: Only",
+      "Programming Language :: Python :: Implementation :: CPython",
+      "Programming Language :: Python :: Implementation :: PyPy"
+    ],
+    "id": "sniffio",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          11
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          31
+        ]
+      ]
+    },
+    "publisher": "GitHub",
+    "title": "sniffio",
+    "type": "webpage",
+    "version": "1.2.0"
+  },
+  {
+    "URL": "https://github.com/facelessuser/soupsieve",
+    "abstract": "A modern CSS selector implementation for Beautiful Soup.",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Isaac Muse"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 5 - Production/Stable",
+      "Environment :: Console",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Operating System :: OS Independent",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3.6",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: 3.10",
+      "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
+      "Topic :: Software Development :: Libraries :: Python Modules",
+      "Typing :: Typed"
+    ],
+    "id": "soupsieve",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          11
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          8
+        ]
+      ]
+    },
+    "publisher": "GitHub",
+    "title": "soupsieve",
+    "type": "webpage",
+    "version": "2.3.1"
+  },
+  {
+    "URL": "https://github.com/pypa/wheel",
+    "abstract": "A built-package format for Python",
+    "accessed": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Daniel Holth"
+      }
+    ],
+    "categories": [
+      "software",
+      "python",
+      "libraries",
+      "pypi",
+      "Development Status :: 5 - Production/Stable",
+      "Intended Audience :: Developers",
+      "License :: OSI Approved :: MIT License",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 2",
+      "Programming Language :: Python :: 2.7",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3.5",
+      "Programming Language :: Python :: 3.6",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "Programming Language :: Python :: 3.10",
+      "Topic :: System :: Archiving :: Packaging"
+    ],
+    "id": "wheel",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          9
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2012,
+          7,
+          1
+        ]
+      ]
+    },
+    "publisher": "GitHub",
+    "title": "wheel",
+    "type": "webpage",
+    "version": "0.37.0"
+  }
+]
