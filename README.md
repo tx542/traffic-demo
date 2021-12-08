@@ -212,7 +212,7 @@ Statistically speaking, up to **three degrees of freedom can be lost** in the pr
 
     <b>Using the same dataset, we have three levels of estimates—hence the loss of three degrees of freedom</b>.
     
-Please refer to this document (Jupyter Notebook) for a more comprehensive analysis of the predictive machine learning models that the developer has experimented with for this project (LINK TO BE ADDED SOON).
+Please refer to <a href = "https://github.com/tx542/traffic-demo/blob/main/analyses_files/Michael%20-%20NYC%20Traffic%20Open%20Data%20Predictive%20Analysis.ipynb" target = "_blank">this document (Jupyter Notebook)</a> for a more comprehensive analysis of the predictive machine learning models that the developer has experimented with for this project.
 
 #### 3.3 Ethical Considerations in User Proposals
 
@@ -238,7 +238,7 @@ The following datasets have been used for ethical analyses of this project (foll
 
 #### 3.4 Directions for Future Research
 
-As demonstrated in the linked Jupyter Notebook document (you may also follow this link - TO BE ADDED) in section 3.2.4 above, even the optimal models for some of the intermediary steps in estimating (predicting) traits of roads in a newly defined traffic network under user specifications may not necessarily be **very strongly explanatory of the variations in the sample dataset with high cross-validation of train-test split scores (which are some variations of $R^2$ that evaluates the goodness-of-fit of statistical models)**. Indeed, this suggests the existence of **additional omitted or confounding (lurking) variables not included in the models** throughout this project. 
+As demonstrated in the linked Jupyter Notebook document (you may also <a href = "https://github.com/tx542/traffic-demo/blob/main/analyses_files/Michael%20-%20NYC%20Traffic%20Open%20Data%20Predictive%20Analysis.ipynb" target = "_blank">follow this link</a>) in section 3.2.4 above, even the optimal models for some of the intermediary steps in estimating (predicting) traits of roads in a newly defined traffic network under user specifications may not necessarily be **very strongly explanatory of the variations in the sample dataset with high cross-validation of train-test split scores (which are some variations of $R^2$ that evaluates the goodness-of-fit of statistical models)**. Indeed, this suggests the existence of **additional omitted or confounding (lurking) variables not included in the models** throughout this project. 
 
 Therefore, one promising direction for future research and projects in similar fields would be the adaptation of **agent-based microsimulation models**, which can account for the **demand side of traffic usage (arising from the NYC citizen/resident population)**, which would certainly be associated with network patterns on the borough level. The adaptation of agent-based microsimulation models has not been possible for the scope of this project—due to the lack of appropriate datasets, the limits of the developer's relevant skill sets, and the absence of relevant, ready-to-use libraries implemented in the Python programming language. 
 
